@@ -1,0 +1,23 @@
+{
+  "name": "ajs-2_import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thayari/ajs-2_import-export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thayari/ajs-2_import-export/issues"
+  },
+  "homepage": "https://github.com/thayari/ajs-2_import-export#readme",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "webpack": "^4.41.2"
+  }
+}
